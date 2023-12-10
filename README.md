@@ -7,4 +7,4 @@ If you need hosting for this page (or any other website) check out https://owhos
 
 
 # Demo
-https://pages.owehost.com/simpliaboutme/
+https://pages.owehost.com/simpliaboutme/ (edit: i forgot to bring this back online, will make a githubpages soon)
